@@ -1,6 +1,9 @@
 <h1 align="center">Hi🙋🏻‍♀️, I'm Kirti Agarwal</h1>
 <h3 align="center">Exploring ML and Data Analysis👩🏻‍💻</h3>
-[![MasterHead](https://cdn.pfps.gg/banners/1229-code.gif)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://github.com/kirti111agarwal/imagee/blob/main/image1.gif?raw=true" alt="Banner" width="100%">
+</p>
+
 
 - 🔭 I’m currently working on **ML projects🤖**
 
