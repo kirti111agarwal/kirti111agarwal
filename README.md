@@ -1,7 +1,7 @@
 <h1 align="center">Hi🙋🏻‍♀️, I'm Kirti Agarwal</h1>
 <h3 align="center">Exploring ML and Data Analysis👩🏻‍💻</h3>
 <p align="center">
-  <img src="https://github.com/kirti111agarwal/imagee/blob/main/image1.gif?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/kirti111agarwal/imagee/blob/main/image2.gif?raw=true" alt="Banner" width="100%">
 </p>
 
 
@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently exploring **Deep learning and NLP🧩**
 
-- 👯 I’m looking to collaborate on **learn Advanced ML and Data Science tools⚙️**
+- 👯 I am currently **exploring exploring deep learning and NLP⚙️**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kirti111agarwal](https://github.com/kirti111agarwal)
 
 - 💬 Ask me about **Machine Learning,Data Analysis and TU CSIT course(≧ᗜ≦)**
 
-- 📫 How to reach me **kirti111agarwal@gmail.com)📩**
+- 📫 How to reach me **kirti111agarwal@gmail.com 📩**
 
-- 📄 Seeking opportunities [https://www.linkedin.com/in/kirti-agarwal-8b67802b8](https://www.linkedin.com/in/kirti-agarwal-8b67802b8)
+- 📄 I am actively seeking opportunities [https://www.linkedin.com/in/kirti-agarwal-8b67802b8](https://www.linkedin.com/in/kirti-agarwal-8b67802b8)
 
-- 📝 Alongside learning ML **I freelance in website content writing and SEO**
+- 📝 Alongside learning ML, **I freelance in website content writing and SEO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
