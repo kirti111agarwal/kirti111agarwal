@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently exploring **Deep learning and NLP🧩**
 
-- 👯 I am currently **exploring exploring deep learning and NLP⚙️**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kirti111agarwal](https://github.com/kirti111agarwal)
 
 - 💬 Ask me about **Machine Learning,Data Analysis and TU CSIT course(≧ᗜ≦)**
